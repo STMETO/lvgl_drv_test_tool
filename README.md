@@ -1,0 +1,2 @@
+# lvgl_drv_test_tool
+基于lvgl的Linux驱动测试工具
